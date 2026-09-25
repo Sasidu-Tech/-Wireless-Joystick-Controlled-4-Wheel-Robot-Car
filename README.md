@@ -1,5 +1,13 @@
 🚗 Wireless Joystick-Controlled 4-Wheel Robot Car
 
+
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/g8gPJ6dD)
+
+
+![ESP32 Wi-Fi Scanner](images/Car%2BJoystick%20-02.jpg)
+
 A wireless 4-wheel robotic car controlled using an ESP32 + Arduino Joystick Module. The system uses ESP-NOW for fast wireless communication between the Joystick Unit (Transmitter) and the Car Unit (Receiver).
 
 📌 Project Overview
