@@ -1,9 +1,10 @@
-🚗 Wireless Joystick-Controlled 4-Wheel Robot Car
+## 🚗 Wireless Joystick-Controlled 4-Wheel Robot Car
+
 
 
 ## 🎥 Demo
 
-[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/g8gPJ6dD)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtube.com/shorts/THnlGb83Iqw?si=R95gBgnl_tCSA87j)
 
 
 ![ESP32 Wi-Fi Scanner](images/Car%2BJoystick%20-02.jpg)
