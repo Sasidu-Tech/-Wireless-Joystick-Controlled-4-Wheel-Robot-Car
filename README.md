@@ -4,7 +4,7 @@
 
 ## 🎥 Demo
 
-[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtube.com/shorts/THnlGb83Iqw?si=R95gBgnl_tCSA87j)
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtube.com/shorts/THnlGb83Iqw?si=PVsyVhQEQ7uig-sy)
 
 
 ![ESP32 Wi-Fi Scanner](images/Car%2BJoystick%20-02.jpg)
